@@ -7,8 +7,10 @@ Success is a journey, not a destination, join my journey and let's make the worl
 
 
 
-[![Stackoverflow](https://img.shields.io/badge/-stackoverflow-grey?logo=Stackoverflow)](https://stackoverflow.com/users/15856233/victor-apoyan)
-[![Medium](https://img.shields.io/badge/-medium-grey?logo=medium)](	https://medium.com/@victor.apoyan)
+[![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/victorapoyan/)
+[![Twitter](https://img.shields.io/badge/-twitter-grey?logo=twitter)](https://twitter.com/ApoyanViktor)
+[![Stackoverflow](https://img.shields.io/badge/-stackoverflow-grey?logo=Stackoverflow)](https://stackoverflow.com/users/612606/viktor-apoyan)
+[![Medium](https://img.shields.io/badge/-medium-grey?logo=medium)](https://medium.com/@vapoyan)
 ![](https://visitor-badge.glitch.me/badge?page_id=victorapoyan)
 
 
