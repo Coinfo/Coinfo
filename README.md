@@ -12,7 +12,7 @@ My name is Viktor. I am Android Developer 🇩🇪🇦🇲. My passions are Mobi
 Success is a journey, not a destination, join my journey and let's make the world a better place for us.
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ChamichApps&show_icons=true&theme=gotham" alt="ChamichApps" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ChamichApps&show_icons=true" alt="ChamichApps" />
 
 <!---
 victorapoyan/victorapoyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
